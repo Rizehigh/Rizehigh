@@ -2,9 +2,9 @@
 - 👾 Passionate about gaming, stocks, anime, & Pokemon.
 - 🌱 Currently doing things that a student does.
 - 🤝 Not actively looking for collaborations, but always open to new ideas.
-- 📫 [Find me here] (bio.site/SheepManiac)
+- 📫 [Find me here](bio.site/SheepManiac)
 
-I'm not very good at coding tho
+I'm not great at coding though.
 
 <!---
 Rizehigh/Rizehigh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
