@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Rizehigh
-- 👾 Passionate about gaming, stocks, anime, & Pokemon.
-- 🌱 Currently doing things that a student does.
-- 🤝 Not actively looking for collaborations, but always open to new ideas.
+- 👾 Passionate about gaming, stocks, anime, & Pokemon
+- 🌱 Currently doing things that a student does
+- I'm not great at coding, just technologically aligned
 - 📫 [Find me here](bio.site/SheepManiac)
 
-I'm not great at coding, just technologically aligned.
 
 <!---
 Rizehigh/Rizehigh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
