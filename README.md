@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rizehigh
 - 👾 Passionate about gaming, stocks, anime, & Pokemon
 - 🌱 Currently doing things that a student does
-- I'm not great at coding, just technologically aligned
+- 🖥️ I'm not great at coding, just technologically aligned
 - 📫 [Find me here](bio.site/SheepManiac)
 
 
