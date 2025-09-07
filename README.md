@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rizehigh
-- 👾 Passionate about gaming, stocks, anime, & Pokemon.
-- 🌱 Currently doing things that a student does.
-- 🤝 Not actively looking for collaborations, but always open to new ideas.
-- 📫 [Find me here](bio.site/SheepManiac)
+> 👋 Hi, I’m @Rizehigh
+ 👾 Passionate about gaming, stocks, anime, & Pokemon.
+ 🌱 Currently doing things that a student does.
+ 🤝 Not actively looking for collaborations, but always open to new ideas.
+ 📫 [Find me here](bio.site/SheepManiac)
 
 I'm not great at coding though.
 
