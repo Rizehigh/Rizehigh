@@ -2,7 +2,7 @@
 - 👾 Passionate about gaming, stocks, anime, & Pokemon
 - 🌱 Currently doing things that a student does
 - 🖥️ I'm not great at coding, just technologically aligned
-- 📫 [Find me here](bio.site/SheepManiac)
+- 📫 [Find me here](https://www.bio.site/SheepManiac)
 
 
 <!---
